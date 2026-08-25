@@ -46,96 +46,6 @@ Currently, I'm strengthening my skills in **SQL, Python, Data Engineering, AWS, 
 
 # 🛠️ Technical Skills
 
-## 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" />
-</p>
-
-**Python · Java · C++ · C · SQL · JavaScript · TypeScript**
-
----
-
-## 🧠 Artificial Intelligence & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-**Machine Learning · Deep Learning · NLP · Computer Vision · Reinforcement Learning · Generative AI · Retrieval-Augmented Generation (RAG) · Semantic Search · LLM Applications**
-
-**PyTorch · TensorFlow · Scikit-learn · Hugging Face · spaCy · Stable-Baselines3 · PPO · CNNs · Transformers**
-
----
-
-## 📊 Data Engineering & Data Systems
-
-**SQL · Advanced SQL · Data Modeling · ETL / ELT · Data Pipelines · Data Warehousing · Data Lakes · Data Quality · Data Transformation**
-
-**Apache Spark · PySpark · Apache Airflow · Batch Processing · Distributed Data Processing · Data Partitioning · Query Optimization**
-
-**Amazon S3 · AWS Glue · Amazon Redshift · Amazon Athena · Amazon RDS · Amazon EMR · AWS IAM · Amazon Kinesis**
-
----
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase" />
-</p>
-
-**MySQL · PostgreSQL · MongoDB · Redis · Supabase · pgvector**
-
-**Relational Databases · NoSQL · Database Design · Normalization · Indexing · Transactions · Query Optimization**
-
----
-
-## 🌐 Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-**Node.js · Express.js · FastAPI · REST APIs · API Design · Authentication · Backend Development · Microservices Fundamentals**
-
----
-
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
-</p>
-
-**React.js · Next.js · Vite · Tailwind CSS · HTML · CSS**
-
----
-
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-</p>
-
-**AWS · Docker · Git · GitHub · CI/CD · Linux · Cloud Computing**
-
----
-
-## 📈 Data Analysis & Visualization
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Pandas · NumPy · Matplotlib · Data Cleaning · Data Analysis · Exploratory Data Analysis · Statistics · Data Visualization**
-
----
-
-## 🧱 Core Computer Science
-
-**Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · System Design Fundamentals**
-
----
-# 🟣 Tech Stack
 
 ### 💻 Languages
 
@@ -199,6 +109,27 @@ Currently, I'm strengthening my skills in **SQL, Python, Data Engineering, AWS, 
 </p>
 
 `AWS` · `Docker` · `Git` · `GitHub` · `Linux` · `CI/CD`
+
+
+---
+
+## 📈 Data Analysis & Visualization
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Pandas · NumPy · Matplotlib · Data Cleaning · Data Analysis · Exploratory Data Analysis · Statistics · Data Visualization**
+
+---
+
+## 🧱 Core Computer Science
+
+**Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · System Design Fundamentals**
+
+---
+# 🟣 Tech Stack
+
 
 ### 📈 Data & Analytics
 
