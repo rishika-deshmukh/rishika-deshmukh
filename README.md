@@ -351,9 +351,9 @@ A data-driven intelligence platform focused on aggregating, processing and visua
 
 ---
 
-# 🟣 Experience
+# 🟣💼 Experience
 
-### 🧠 Machine Learning Intern
+###  Machine Learning Intern
 
 **Algoleap Technologies Pvt. Ltd. · Hyderabad**
 
@@ -755,43 +755,6 @@ Software Systems
       ├── Cloud Applications
       └── Scalable Architectures
 ```
-
----
-
-# 📚 Currently Learning & Strengthening
-
-### Data Engineering
-
-`Advanced SQL` · `ETL / ELT` · `Apache Spark` · `PySpark` · `Apache Airflow` · `Data Warehousing` · `Data Modeling` · `AWS Data Services`
-
-### Cloud
-
-`Amazon S3` · `AWS Glue` · `Amazon Redshift` · `Amazon Athena` · `Amazon EMR` · `Amazon RDS` · `IAM` · `Kinesis`
-
-### Software Engineering
-
-`System Design` · `Backend Architecture` · `Scalable Systems` · `Docker` · `CI/CD`
-
-### Computer Science & Interviews
-
-`Data Structures & Algorithms` · `SQL` · `DBMS` · `Operating Systems` · `Computer Networks` · `Object-Oriented Programming`
-
----
-
-# 💼 Experience
-
-### Machine Learning Intern
-
-**Algoleap Technologies Pvt. Ltd. · Hyderabad**
-
-Worked on building and improving **document intelligence and machine learning workflows**.
-
-* Developed document processing pipelines using **Hugging Face, spaCy, and PyMuPDF**
-* Worked with NLP and machine learning models for document understanding
-* Fine-tuned models including **T5 and RoBERTa**
-* Built backend APIs using **FastAPI**
-* Developed interfaces for ML-powered applications using **React**
-* Worked across the complete pipeline from **data processing and model development to API integration and frontend delivery**
 
 ---
 
