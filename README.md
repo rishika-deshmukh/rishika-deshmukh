@@ -24,22 +24,21 @@
 
 ---
 
-# 🟣 About Me
+## 🧑‍💻 About Me
 
-```text id="v3bhac"
-Computer Science student specializing in Artificial Intelligence & Machine Learning.
+I'm a **Computer Science student specializing in Artificial Intelligence and Machine Learning**, with interests spanning **Software Engineering, Artificial Intelligence, Machine Learning, Data Engineering, Backend Development, Cloud Technologies, and Data Systems**.
 
-I enjoy building end-to-end systems at the intersection of:
+I enjoy building **end-to-end systems** — from designing user-facing applications and backend APIs to developing machine learning models, retrieval systems, data pipelines, and scalable databases.
 
-        AI / ML
-           +
-        Data Engineering
-           +
-        Backend Systems
-           +
-        Software Engineering
-           +
-        Cloud Technologies
+Currently, I'm strengthening my skills in **SQL, Python, Data Engineering, AWS, ETL pipelines, Data Warehousing, Database Systems, Distributed Data Processing, and Data Modeling**, while continuing to build projects across AI/ML and full-stack development.
+
+* 🔭 Building end-to-end AI, ML, Data, and Software Engineering projects
+* 🌱 Exploring scalable data systems, cloud technologies, and distributed computing
+* 🧠 Interested in Machine Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning, and Generative AI
+* ⚙️ Working with backend systems, APIs, databases, ETL pipelines, and cloud infrastructure
+* 📊 Strengthening Data Engineering and Analytics skills
+* 💻 Practicing Data Structures, Algorithms, SQL, and Core Computer Science
+
 ```
 
 * 🧠 Building projects across **AI/ML, Generative AI, RAG, Computer Vision and Reinforcement Learning**
@@ -519,23 +518,6 @@ Worked on building **machine learning and document intelligence systems** across
 </p>
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a **Computer Science student specializing in Artificial Intelligence and Machine Learning**, with interests spanning **Software Engineering, Artificial Intelligence, Machine Learning, Data Engineering, Backend Development, Cloud Technologies, and Data Systems**.
-
-I enjoy building **end-to-end systems** — from designing user-facing applications and backend APIs to developing machine learning models, retrieval systems, data pipelines, and scalable databases.
-
-Currently, I'm strengthening my skills in **SQL, Python, Data Engineering, AWS, ETL pipelines, Data Warehousing, Database Systems, Distributed Data Processing, and Data Modeling**, while continuing to build projects across AI/ML and full-stack development.
-
-* 🔭 Building end-to-end AI, ML, Data, and Software Engineering projects
-* 🌱 Exploring scalable data systems, cloud technologies, and distributed computing
-* 🧠 Interested in Machine Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning, and Generative AI
-* ⚙️ Working with backend systems, APIs, databases, ETL pipelines, and cloud infrastructure
-* 📊 Strengthening Data Engineering and Analytics skills
-* 💻 Practicing Data Structures, Algorithms, SQL, and Core Computer Science
 
 ---
 
