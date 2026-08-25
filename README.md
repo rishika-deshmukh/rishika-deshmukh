@@ -39,14 +39,6 @@ Currently, I'm strengthening my skills in **SQL, Python, Data Engineering, AWS, 
 * 📊 Strengthening Data Engineering and Analytics skills
 * 💻 Practicing Data Structures, Algorithms, SQL, and Core Computer Science
 
-```
-
-* 🧠 Building projects across **AI/ML, Generative AI, RAG, Computer Vision and Reinforcement Learning**
-* 📊 Strengthening expertise in **Data Engineering, SQL, ETL/ELT, Data Warehousing and AWS**
-* ⚙️ Building **backend systems, REST APIs and database-driven applications**
-* 🌐 Developing **full-stack applications using React and Next.js**
-* 💻 Practicing **Data Structures & Algorithms and Core Computer Science**
-* 🚀 Interested in building scalable, intelligent and data-driven systems
 
 <br/>
 
