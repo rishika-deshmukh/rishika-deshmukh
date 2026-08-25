@@ -322,7 +322,7 @@ A data-driven intelligence platform focused on aggregating, processing and visua
 
 ---
 
-# 🟣 What I Build
+# 🟣🏗️ What I Like Building  
 
 ```text id="an47mo"
 ┌─────────────────────────────────────────────────────┐
@@ -335,8 +335,8 @@ A data-driven intelligence platform focused on aggregating, processing and visua
 ┌─────────────────────────────────────────────────────┐
 │                    DATA SYSTEMS                     │
 ├─────────────────────────────────────────────────────┤
-│  SQL  •  ETL / ELT  •  Data Pipelines               │
-│  Warehousing  •  Spark  •  Cloud Data Systems        │
+│  SQL  •  ETL / ELT  •  Data Pipelines  •  Spark     │
+│  Warehousing  •  Cloud Data Systems  •  Analytics   │
 └─────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────┐
@@ -350,6 +350,8 @@ A data-driven intelligence platform focused on aggregating, processing and visua
 <br/>
 
 ---
+
+
 
 # 🟣💼 Experience
 
@@ -439,22 +441,6 @@ Worked on building **machine learning and document intelligence systems** across
 <br/>
 
 ---
-
-# 🟣 GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rishika-deshmukh&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-deshmukh&theme=midnight-purple&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-deshmukh&layout=compact&theme=midnight-purple&hide_border=true" />
-
-</div>
-
-<br/>
 
 ---
 
@@ -725,52 +711,6 @@ A data-driven platform concept focused on collecting, processing, analyzing, and
 </table>
 
 ---
-
-# 🏗️ What I Like Building
-
-```text
-AI / ML Systems
-      │
-      ├── Machine Learning Models
-      ├── Deep Learning Applications
-      ├── NLP & Computer Vision
-      ├── Reinforcement Learning
-      └── Generative AI & RAG
-      
-
-Data Systems
-      │
-      ├── ETL / ELT Pipelines
-      ├── Data Warehouses
-      ├── Distributed Processing
-      ├── Cloud Data Platforms
-      └── Analytics Systems
-
-
-Software Systems
-      │
-      ├── Backend APIs
-      ├── Full-Stack Applications
-      ├── Database Systems
-      ├── Cloud Applications
-      └── Scalable Architectures
-```
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishika-deshmukh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-deshmukh&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-deshmukh&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
