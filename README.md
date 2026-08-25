@@ -552,12 +552,6 @@ Full-Stack Development
 
 <div align="center">
 
-### 💭 Building at the intersection of
-
-# AI · DATA · SOFTWARE · CLOUD
-
-<br/
-
 <p>
   <a href="https://www.linkedin.com/in/rishika-deshmukh/">
     <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
