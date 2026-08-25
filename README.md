@@ -556,9 +556,7 @@ Full-Stack Development
 
 # AI · DATA · SOFTWARE · CLOUD
 
-<br/>
-
-**Open to learning, collaborating, and building interesting things.**
+<br/
 
 <p>
   <a href="https://www.linkedin.com/in/rishika-deshmukh/">
