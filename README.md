@@ -44,7 +44,7 @@ Currently, I'm strengthening my skills in **SQL, Python, Data Engineering, AWS, 
 
 ---
 
-# 🛠️ Technical Skills
+# 🟣🛠️ Technical Skills
 
 
 ### 💻 Languages
@@ -109,27 +109,6 @@ Currently, I'm strengthening my skills in **SQL, Python, Data Engineering, AWS, 
 </p>
 
 `AWS` · `Docker` · `Git` · `GitHub` · `Linux` · `CI/CD`
-
-
----
-
-## 📈 Data Analysis & Visualization
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**Pandas · NumPy · Matplotlib · Data Cleaning · Data Analysis · Exploratory Data Analysis · Statistics · Data Visualization**
-
----
-
-## 🧱 Core Computer Science
-
-**Data Structures & Algorithms · Object-Oriented Programming · DBMS · Operating Systems · Computer Networks · System Design Fundamentals**
-
----
-# 🟣 Tech Stack
-
 
 ### 📈 Data & Analytics
 
