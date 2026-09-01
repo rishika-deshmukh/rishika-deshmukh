@@ -402,8 +402,6 @@ Worked on building **machine learning and document intelligence systems** across
 
 ### 🤖 AI / ML
 
-`Machine Learning`
-
 `Deep Learning`
 
 `NLP`
