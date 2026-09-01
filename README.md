@@ -329,15 +329,16 @@ A data-driven intelligence platform focused on aggregating, processing and visua
 │                    AI / ML SYSTEMS                  │
 ├─────────────────────────────────────────────────────┤
 │  Machine Learning  •  Deep Learning  •  NLP         │
-│  Computer Vision  •  RL  •  Generative AI / RAG     │
+│  Computer Vision  •  Reinforcement Learning         │
+│  Generative AI  •  LLMs  •  RAG  •  AI Agents       │
 └─────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────┐
-│                    DATA SYSTEMS                     │
-├─────────────────────────────────────────────────────┤
-│  SQL  •  ETL / ELT  •  Data Pipelines  •  Spark     │
-│  Warehousing  •  Cloud Data Systems  •  Analytics   │
-└─────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│                    DATA SYSTEMS                       │
+├───────────────────────────────────────────────────────┤
+│    SQL  •  ETL / ELT  •  Data Pipelines  •  Spark     │
+│ Data Warehousing  •  Cloud Data Systems  •  Analytics │
+└───────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────┐
 │                 SOFTWARE SYSTEMS                    │
