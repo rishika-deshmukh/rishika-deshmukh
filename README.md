@@ -378,7 +378,7 @@ Worked on building **machine learning and document intelligence systems** across
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 📊 Data Engineering
 
@@ -398,7 +398,29 @@ Worked on building **machine learning and document intelligence systems** across
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
+
+### 🤖 AI / ML
+
+`Machine Learning`
+
+`Deep Learning`
+
+`NLP`
+
+`Computer Vision`
+
+`Generative AI`
+
+`LLMs`
+
+`RAG`
+
+`Reinforcement Learning`
+
+</td>
+
+<td width="25%" align="center">
 
 ### ☁️ Cloud & Systems
 
@@ -418,7 +440,7 @@ Worked on building **machine learning and document intelligence systems** across
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 💻 Software Engineering
 
@@ -440,8 +462,6 @@ Worked on building **machine learning and document intelligence systems** across
 </table>
 
 <br/>
-
----
 
 ---
 
